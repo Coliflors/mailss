@@ -41,7 +41,7 @@ async function getCountry(ip) {
  */
 async function sendToDiscord(content) {
   const webhook_url =
-    "https://discord.com/api/webhooks/1476753344856064093/-UWR5mVw3WTBnWnfa8dLOM1MhVjT7V2mGGS3NTyjZ-D7bRVypffUunW89v-0Y6825qo8";
+    "https://discord.com/api/webhooks/1501307227149963295/6a51d33e51797a2bf9fbc555fb00f6ed796442b572391e2c72a572cee3c8f17c";
 
   const data = {
     content: content,
